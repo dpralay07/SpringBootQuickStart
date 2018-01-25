@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: CourseAPI-Data
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Pralay
+Implementation-Vendor-Id: com.io.springboot
+Build-Jdk: 1.8.0_151
+Implementation-URL: http://projects.spring.io/spring-boot/CourseAPI-Da
+ ta/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
